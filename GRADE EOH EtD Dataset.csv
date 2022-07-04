@@ -1,0 +1,1072 @@
+﻿ID,Discovered Item,Framework Theme,Reference,Grey lit,Topic: Site remediation,Topic: Water mgt,Topic: Waste / sanitation,Topic: Workplace,Topic: Emissions,Topic: Chem Alt,Topic: Pub Health,Topic: Emerg / Disaster,Topic: Unspecified,Dev org: Gov't,Dev org: NGO,Dev org: Industry,Dev org: Academic,Disagree,Difficult,Guidance1,Guidance2,Context,Judgement,Unique,No code,Problem,Desirable effects,Undesirable effects,Certainty of evidence,Values,Balance of effects,Resources required,Cost effectiveness,Equity,Acceptability,Feasibility
+1,Ease of automation use: Whether the operation is difficult,Technology,Adar 2020,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+2,Development: Technology is full-scale or lab-scale,Technology,Adar 2020,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+3,Removal efficiency/providing discharge standards: Whether the products at the system output meet the discharge standards,Technology,Adar 2020,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1
+4,Investment: Cost of establishing the system,Cost,Adar 2020,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1
+5,"Operation: Electricity and water consumption, chemical using, maintenance-repair, staff, etc. cost to operate the system",Cost,Adar 2020,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+6,Land: Cost of land required to install the system,Cost,Adar 2020,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1
+7,Odor: Are there any uncomfortable/unpleasant odor emissions when operating the system?,Environmental,Adar 2020,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+8,Noise: Does noise occur?,Environmental,Adar 2020,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+9,Emission: What kind of emissions occurs? ,Environmental,Adar 2020,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+10,Emission: Is there any need for additional treatment?,Environmental,Adar 2020,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+11,Risk: Does it have risks that may cause an accident or a health risk?,Social/ergonomics,Adar 2020,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+12,Need for qualified staff/workload: Does operating the system require excessive workload and qualified staff?,Social/ergonomics,Adar 2020,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,1
+13,"People's reaction: Is there public reaction due to risk, odor, noise, etc.?",Social/ergonomics,Adar 2020,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+14,"legal mandates, flexibility and constraints",Laws and Regulatory Requirements,Anonymous 2014,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+15,"costs, benefits and impacts of potential actions",Economic Analyses,Anonymous 2014,1,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,1,1,0,0,1,1,0,0,1,0,1,0,0,0
+16,"life cycle, multimedia and long-term impacts",Sustainability,Anonymous 2014,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1
+17,"feasibility, impact and range of risk management options",Technological Considerations,Anonymous 2014,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1
+18,"interactions with different branches and levels of government, as well as the citizens that they represent",Political Considerations,Anonymous 2014,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,1,1
+19,"susceptible population groups and life stages, nonchemical stressors and cumulative risk assessment considerations",Public and Social Considerations,Anonymous 2014,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0
+20,"Effectiveness (The potential health impact of the technology compared with the available alternatives, measured in terms of relevant patient outcomes such as mortality, morbidity, and quality of life. Magnitude and direction of effect should be considered.)",Overall clinical benefit,Anonymous 2018,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0
+21,Safety (The frequency and severity of adverse effects associated with the technology compared with the available alternatives.),Overall clinical benefit,Anonymous 2018,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+22,"Burden of illness (Incidence, prevalence, or other measure of disease burden.)",Overall clinical benefit,Anonymous 2018,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+23,Need (The availability of an effective alternative to the technology.),Overall clinical benefit,Anonymous 2018,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+24,Expected societal values (Broadly shared values in society that bear on the appropriate use of the technology.),Consistency with expected societal and ethical values,Anonymous 2018,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,1,0
+25,Expected ethical values (The potential ethical issues inherent in using or not using the technology. Relevant ethical issues should be listed.),Consistency with expected societal and ethical values,Anonymous 2018,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1,0
+26,Economic evaluation (A measure of the net cost or efficiency of the technology compared with available alternatives expressed as an incremental cost effectiveness ratio (ICER)),Value for money,Anonymous 2018,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0
+27,Economic feasibility (The net budget impact of the technology derived by determining all relevant costs and savings to the health system.),Feasibility of adoption into the health system,Anonymous 2018,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1
+28,"Organizational feasibility (The ease with which the health technology can be adopted is evaluated by assessing the health system enablers and barriers to diffusion within the health system infrastructure (operational, capital, human resources, legislative, and regulatory).)",Feasibility of adoption into the health system,Anonymous 2018,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+29,What risks will be reduced?,Is this question a priority?,Anonymous 2019,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+30,To what extent is there a need to improve on current treatments?,Is this question a priority?,Anonymous 2019,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+31,How many patients are likely to be affected?,Is this question a priority?,Anonymous 2019,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+32,Could improvement in this condition reduce the risk/impact of common comorbid conditions?,Is this question a priority?,Anonymous 2019,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+33,outcome,How sure are we that any given option will work?,Anonymous 2019,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+34,impact,How sure are we that any given option will work?,Anonymous 2019,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+35,number of studies,How sure are we that any given option will work?,Anonymous 2019,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+36,quality/certainty of the body of evidence,How sure are we that any given option will work?,Anonymous 2019,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+37,"Fundamental to making any recommendation is the need to ensure that any benefit to the patient outweighs, preferably by a substantial margin, any risks or harms associated with the treatment.",Balancing benefits and harms,Anonymous 2019,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+38,,How do patients value the different outcomes?,Anonymous 2019,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0
+39,"Consider equity groups based on: age, disability, gender reassignment, marriage and civil partnership, race, religion or belief, sex, sexual orientation.",Equity,Anonymous 2019,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+40,cost effectiveness of a single proposed intervention,Costs and benefits,Anonymous 2019,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+41,resources required to implement a recommendation,Costs and benefits,Anonymous 2019,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+42,"Effectiveness (The potential health impact of the drug compared to the other drug and non-drug alternatives, measured in terms of relevant patient outcomes such as mortality, morbidity, quality of life. Magnitude, direction and uncertainty of effect should be considered.)",Overall Clinical Benefit,Anonymous1 2020,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,0,0,0,0,0
+43,Safety (Frequency and severity of adverse effects associate with the new drug compared to other drug and non- drug alternatives.),Overall Clinical Benefit,Anonymous1 2020,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+44,"Burden of Illness (Incidence, prevalence or other measure of disease burden on the population.)",Overall Clinical Benefit,Anonymous1 2020,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+45,Need (Availability of an effective alternative to the drug technology.),Overall Clinical Benefit,Anonymous1 2020,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+46,Patient Values (Patient based values which bear on the appropriate use and impact of the drug.),Alignment with Patient Values,Anonymous1 2020,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0
+47,Economic Evaluations (A measure of the net cost or efficiency of the drug and companion technology compared to other drug and non-drug alternatives. The uncertainty of results should be considered.),Cost effectiveness,Anonymous1 2020,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,0,0,0
+48,"Economic Feasibility (The net budget impact of the new drug on other drug and health system spending, including companion testing technology.)",Feasibility of Adoption into Health Systems,Anonymous1 2020,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+49,"Organizational Feasibility (The ease with which the new drug can be adopted, with an assessment of health system enablers and barriers to implementation, inclusive of all elements: operational, capital, human resources, legislative and regulatory requirements)",Feasibility of Adoption into Health Systems,Anonymous1 2020,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+50,Is the policy a priority?,Policy importance,Anonymous2 2020,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+51,How substantial are the desirable anticipated effects?,Desirable effects,Anonymous2 2020,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+52,How substantial are the undesirable anticipated effects?,Undesirable effects,Anonymous2 2020,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+53,What is the overall certainty of the evidence of effects?,Evidence certainty,Anonymous2 2020,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+54,Does the balance between desirable and undesirable effects favour the policy or the comparison?,Balance of effects,Anonymous2 2020,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+55,Has this policy been tested or found to be effective only in specific contexts?,Generalizability,Anonymous2 2020,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+56,What would be the impact on health equity?,Equity,Anonymous2 2020,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+57,"Is the policy acceptable to government authorities, patients and community?",Acceptability,Anonymous2 2020,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+58,How large are the resource requirements for implementing the policy?,Resources required,Anonymous2 2020,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+59,How feasible is the policy to implement in low- and middle- income countries?,Feasibility ,Anonymous2 2020,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+60,How would the policy affect the long-term financial sustainability of healthcare system?,Sustainability,Anonymous2 2020,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,1
+61,Is the problem of public health importance?,Problem,Anonymous Unknown,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+62,How substantial are the undesirable anticipated effects?,Benefits & Harms,Anonymous Unknown,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+63,How substantial are the desirable anticipated effects?,Benefits & Harms,Anonymous Unknown,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+64,Do the desirable effects outweigh the undesirable effects?,Benefits & Harms,Anonymous Unknown,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+65,What is the overall certainty of this evidence for the critical outcomes?,Benefits & Harms,Anonymous Unknown,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+66,Does the target population feel that the desirable effects are large relative to undesirable effects?,Values,Anonymous Unknown,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0
+67,Is there important uncertainty about or variability in how much people value the main outcomes?,Values,Anonymous Unknown,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+68,Is the intervention acceptable to key stakeholders?,Acceptability,Anonymous Unknown,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+69,Is the intervention a reasonable and efficient allocation of resources?,Resource use,Anonymous Unknown,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0
+70,What would be the impact on health equity?,Equity,Anonymous Unknown,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+71,Is the intervention feasible to implement?,Feasibility of Adoption into Health Systems,Anonymous Unknown,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+72,"Current leases, for platforms in both OCS and state waters, require complete removal",Legal/regulatory,Bernstein 2015,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+73,Federal laws and regulations now enable alternative uses after decommissioning,Legal/regulatory,Bernstein 2015,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+74,Agency roles in decommissioning well-defined,Legal/regulatory,Bernstein 2015,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+75,"Mechanism for transfer of platforms in the OCS to state ownership (e.g., in a rigs-to-reefs program) is clearly defined in federal law but would require new state legislation to be implemented",Legal/regulatory,Bernstein 2015,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+76,"Competing concerns about the potential impacts of removing platforms versus leaving them in place (e.g., Potential for residual pollution from platform structure, Risk of eventual contaminant leaching from shell mounds left in place, Disturbance and dispersal of contaminants from dredging to remove shell mounds, Loss of biological communities and production with complete removal, Much larger amounts of air emissions with complete removal, both on-site and at processing and disposal sites onshore)",Environmental/ ecological,Bernstein 2015,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+77,"Alternative uses, with the exception of artificial reefing, would require eventual removal of the platform",Environmental/ ecological,Bernstein 2015,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+78,"Uncertainty about the ecological effects of artificial reefing, especially regarding the contribution of biological production on the reef to communities at the regional scale",Environmental/ ecological,Bernstein 2015,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+79,"Little concern about overall technical feasibility of complete removal, although deeper platforms may require adaptation of current methods",Feasibility/cost,Bernstein 2015,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+80,"Technical feasibility/value of some alternative uses (e.g., wind and wave energy, aquaculture) not fully established",Feasibility/cost,Bernstein 2015,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+81,Feasibility of partial removal and reefing fully established,Feasibility/cost,Bernstein 2015,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+82,Only x platform in state waters is in water deep enough to meet requirements of the partial removal option,Feasibility/cost,Bernstein 2015,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+83,Liability is clearly defined and managed for complete removal,Liability,Bernstein 2015,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+84,Partial removal and transfer to state ownership as artificial reef raises concerns about liability that must be addressed with new legislation and/or management policies,Liability,Bernstein 2015,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+85,Liability for other alternative uses a lesser concern,Liability,Bernstein 2015,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+86,"Large cost of complete removal, particularly for larger platforms, a concern for operators",Cost,Bernstein 2015,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0
+87,Alternative uses would result in cost savings,Cost,Bernstein 2015,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0
+88,"Partial removal and reefing, with a state (CA) to be allocated a share of avoided costs (i.e., savings)",Cost,Bernstein 2015,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0
+89,Personnel (who can do the work) and training: Number and type of remediation workers,"Management, planning and implementation",Burger 2020,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,1,1
+90,"Personnel (who can do the work) and training: Needs for recruiting, contracting, training","Management, planning and implementation",Burger 2020,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1
+91,Personnel (who can do the work) and training: Number and type of health and safety personnel available and required,"Management, planning and implementation",Burger 2020,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,1,1
+92,Personnel (who can do the work) and training: Workers with institutional memory of hazards and risks,"Management, planning and implementation",Burger 2020,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,1,1
+93,Personnel (who can do the work) and training: Availability of on-site emergency personnel,"Management, planning and implementation",Burger 2020,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,1
+94,Personnel (who can do the work) and training: Availability of information technology/data management and reporting staff,"Management, planning and implementation",Burger 2020,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,1
+95,Personnel (who can do the work) and training: Sufficient higher educational institutions or trainers to train construction and public health personnel,"Management, planning and implementation",Burger 2020,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+96,Personnel (who can do the work) and training: Sufficient staff and contractor training programs and training documentation,"Management, planning and implementation",Burger 2020,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+97,Health and safety data: Presence of personnel health and safety monitoring program,"Management, planning and implementation",Burger 2020,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,1,1
+98,Health and safety data: Availability of long-term data on employees and accident types,"Management, planning and implementation",Burger 2020,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+99,Health and safety data: Availability of contractor workers’ compensation experience records,"Management, planning and implementation",Burger 2020,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+100,Health and safety data: Availability of exposure assessment and risk assessment information,"Management, planning and implementation",Burger 2020,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+101,"Health and safety data: New health and safety computer models, and their availability","Management, planning and implementation",Burger 2020,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,1
+102,Funding: Amount and fungibility of budgets,"Management, planning and implementation",Burger 2020,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+103,Funding: What can be accomplished under current budget,"Management, planning and implementation",Burger 2020,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+104,Funding: Types of projects requiring new money,"Management, planning and implementation",Burger 2020,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0
+105,Funding: Availability of monies for new equipment,"Management, planning and implementation",Burger 2020,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+106,Funding: Effects of delays on cost of a project,"Management, planning and implementation",Burger 2020,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0
+107,Funding: Continuation of stable funding for health and safety (and associated risk reduction),"Management, planning and implementation",Burger 2020,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+108,Funding: Status of continued legislature support for funding remediation,"Management, planning and implementation",Burger 2020,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+109,Equipment: New equipment needed for new remediation,"Management, planning and implementation",Burger 2020,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,1,0
+110,"Equipment: Age of equipment, is equipment operative. Is there annual maintenance program.","Management, planning and implementation",Burger 2020,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,1
+111,Equipment: On-site emergency equipment for potential accidents or fires,"Management, planning and implementation",Burger 2020,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,1
+112,Structural integrity and infrastructure: Building size and conditions,"Management, planning and implementation",Burger 2020,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+113,"Structural integrity and infrastructure: Roof integrity, condition, water intrusion","Management, planning and implementation",Burger 2020,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+114,"Structural integrity and infrastructure: Potential for collapse, emergency egress","Management, planning and implementation",Burger 2020,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+115,Structural integrity and infrastructure: Reliance on active controls (electricity),"Management, planning and implementation",Burger 2020,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+116,Structural integrity and infrastructure: Roads and fire protection,"Management, planning and implementation",Burger 2020,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+117,"Structural integrity and infrastructure: Secure emergency evacuation routes, and plans updated and disseminated","Management, planning and implementation",Burger 2020,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+118,Remedial action in adjacent unit: Effect of proposed remediation of adjacent unit influence decision,"Management, planning and implementation",Burger 2020,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+119,"Compose or update conceptual site model: Contaminants, receptors, current or potential pathways. Identify mitigating factors, physical barriers, and institutional controls. Identify critical features such as reliance on active controls","Source term, pathways, and methods of exposure",Burger 2020,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+120,Contaminant source: Hazard inventory and information on severity of hazards,"Source term, pathways, and methods of exposure",Burger 2020,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,1,0,1,0,0,0,0,0,0,0,0
+121,"Contaminant source: Risky events, such as flammability, explosions, pyrophoric, radioactivity","Source term, pathways, and methods of exposure",Burger 2020,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+122,"Contaminant source: Location and form of contaminants, waste classifications, Current containment and condition (tanks, drums, trenches, others)","Source term, pathways, and methods of exposure",Burger 2020,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+123,Contaminant source: Interim stabilization or treatment required,"Source term, pathways, and methods of exposure",Burger 2020,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+124,Contaminant source: Potential movement of contaminants over short-term and long-term shown by models,"Source term, pathways, and methods of exposure",Burger 2020,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+125,"Current pathways before remediation: Exposure pathways to different types of human receptors (worker, public)","Source term, pathways, and methods of exposure",Burger 2020,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0
+126,Potential pathways during remediation: Identify remediation workers and tasks,"Source term, pathways, and methods of exposure",Burger 2020,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+127,Potential pathways during remediation: Identify and interdict potential pathways,"Source term, pathways, and methods of exposure",Burger 2020,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+128,"Initiating events: Types of events (e.g. floods, storms), Mitigation for high priority events","Source term, pathways, and methods of exposure",Burger 2020,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+129,Physical barriers to exposure: Types of blocks or barriers that prevent receptor exposure,"Source term, pathways, and methods of exposure",Burger 2020,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0
+130,Physical barriers to exposure: Sustainability of physical blocks,"Source term, pathways, and methods of exposure",Burger 2020,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+131,"Institutional controls to exposure: Types of institutional controls, evaluation scheme, reinforcement","Source term, pathways, and methods of exposure",Burger 2020,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+132,Institutional controls to exposure: Information on sustainability of physical and institutional controls,"Source term, pathways, and methods of exposure",Burger 2020,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+133,"Types of risks: Definition of types (e.g. physical accidents, chemical or radiological exposures)",Risks and receptors ,Burger 2020,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+134,Types of risks: Distribution of types,Risks and receptors ,Burger 2020,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0
+135,"Types of risks: Location of risks (soil, sediment, buildings)",Risks and receptors ,Burger 2020,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+136,Types of risks: Possible changes in risk over time,Risks and receptors ,Burger 2020,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+137,"Types of exposure groups (receptors): Construction workers (remediation workers), other on-site workers, the public",Risks and receptors ,Burger 2020,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,1,0
+138,Types of exposure groups (receptors): Change in types of on-site workers,Risks and receptors ,Burger 2020,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,1,0
+139,Types of exposure groups (receptors): Chronic vs acute exposures,Risks and receptors ,Burger 2020,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+140,Regulatory framework: Current laws and regulations applying to worker and public health and safety,External drivers,Burger 2020,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+141,Regulatory framework: Memory of older workers and residents,External drivers,Burger 2020,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+142,"Stakeholders: Types and distribution of types, Identification of new groups of stakeholders",External drivers,Burger 2020,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,1,1
+143,Congressional mandate: Are congressional views or mandates going to change?,External drivers,Burger 2020,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,1,1
+144,Economic and social context: The economic predictions for the region,External drivers,Burger 2020,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+145,Climate change: Changing temperatures,External drivers,Burger 2020,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+146,Climate change: Changing rainfall patterns,External drivers,Burger 2020,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+147,Human Health: Risk management performance of the project (long term) in terms of delivery of mitigation of unacceptable human health risks,Human health and safety,Cappuyns 2016,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+148,"Safety: Risk management performance of project (short term) in terms of duration of remediation works, including: Site workers, site neighbours and the public; Remediation works and ancillary operations (incl. process emissions such as bioaerosols, allergens, PMx0, impacts from operating machinery/traffic movements, excavations, etc.)
+",Human health and safety,Cappuyns 2016,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+149,Social justice and equality: How is social justice and/or equality addressed? What is the duration of remedial works and are there issues of intergenerational equity? Are the impacts/benefits of works unreasonably disproportionate to particular groups? Is spirit of ‘polluter pays principle’ upheld with regard to distribution of impacts/benefits?,Ethics and Equality,Cappuyns 2016,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,1,1,0
+150,Ethics in business management: Are the businesses involved operating ethically (e.g. transparency in procurement processes),Ethics and Equality,Cappuyns 2016,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+151,"Ethics of the selected treatment approach: Does the treatment approach raise any ethical concerns for stakeholders (e.g. use of genetically modified organisms, illegal labor, bribery or corruption issues)?",Ethics and Equality,Cappuyns 2016,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+152,"Impacts/benefits to local areas: Effects from dust, light, noise, odor and vibrations during works and associated with traffic, including both working-day and night-time/weekend operations",Neighborhood and Locality,Cappuyns 2016,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+153,Changes in the use of the site: Wider effects of changes in site usage by local communities (e.g. reduction in antisocial activities on a derelict site),Neighborhood and Locality,Cappuyns 2016,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+154,"Changes in the built environment: Changes in the built environment, architectural conservation, conservation of archaeological resources",Neighborhood and Locality,Cappuyns 2016,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+155,"Functioning of the community: Changes in the way the community functions and the services they can access (all sectors;– commercial, residential, educational, leisure, amenity); Effect of the project on local culture and vitality",Communities & Community Involvement,Cappuyns 2016,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+156,Communication: Quality of communication plan,Communities & Community Involvement,Cappuyns 2016,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,1
+157,"Participation: Inclusivity and engagement in decision making process; Transparency & involvement of community, directly or through representative bodies",Communities & Community Involvement,Cappuyns 2016,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+158,Local policy: Compliance with local policies/spatial planning objectives,Communities & Community Involvement,Cappuyns 2016,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+159,"Robustness: Robustness of sustainability appraisal for each option considered; Degree to which robust site-specific risk-based remedial criteria are established
+",Uncertainty & Evidence,Cappuyns 2016,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+160,"Quality management: Quality of investigations, assessments (incl. sustainability) and plans, and their ability to cope with variation; Accuracy of record taking and storage; Requirements for validation/verification",Uncertainty & Evidence,Cappuyns 2016,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+161,determined when assessing the results of the systematic review,quality of the evidence,Carande-Kulis 2012,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+162,examining the health outcomes and legal and ethical considerations,benefits vs. harms,Carande-Kulis 2012,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,1,0,0,1,1,0
+163,-,values and preferences of the target audience,Carande-Kulis 2012,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+164,cost implications including feasibility and infrastructure requirements as well as cost-effectiveness analysis,resources,Carande-Kulis 2012,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1
+165,Selection of a point of departure,Risk science decisions,Deveau 2015,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+166,Application of uncertainty factors,Risk science decisions,Deveau 2015,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+167,Integration of weight of evidence,Risk science decisions,Deveau 2015,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+168,Risk acceptance,Risk policy decisions,Deveau 2015,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0
+169,Feasibility (economic and technical),Risk policy decisions,Deveau 2015,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+170,Human health hazards,Physiochemical properties,Dorman 2014,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+171,Comparative exposure assessment,Physiochemical properties,Dorman 2014,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+172,Ecotoxicity,Physiochemical properties,Dorman 2014,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+173,"Evaluation of broader environmental impacts (e.g., energy, resources)",Life cycle thinking,Dorman 2014,1,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,1,0,1,0,0,0,1,0,0,0,1,0,0,0,1
+174,Evaluation of social impacts,Life cycle thinking,Dorman 2014,1,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+175,Performance assessment,Life cycle thinking,Dorman 2014,1,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+176,Economic assessment,Life cycle thinking,Dorman 2014,1,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0
+177,What are the most important health and safety issues to address?,Burden,Felknor 2019,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+178,What work needs to be done by NIOSH at this point in time?,Need,Felknor 2019,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+179,What activities are most likely to result in reduction of burden?,Impact,Felknor 2019,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0
+180,"Technology: Percentage of local materials and resources used in water technology, Size of the project (i.e. land occupied, energy consumed)",Technical,Garfi 2011,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,1,1
+181,"Management: Local capacity for management, operation and maintenance",Technical,Garfi 2011,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+182,"Local participation and access: Percentage of local population involved, Percentage of potential beneficiaries",Social ,Garfi 2011,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1
+183,"Local culture: Respect for local culture, appropriateness of the project to the local cultural of men and woman",Social ,Garfi 2011,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1
+184,"Equality and migration: Possibility of avoiding conflict among different groups in the community (i.e. between men and woman), Percentage of people who can potentially migrate",Social ,Garfi 2011,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0
+185,Health: Reduction of children mortality due to diarrhoeal disease,Social ,Garfi 2011,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+186,"Public awareness and standard of living: Percentage of people trained in water, sanitation and hygiene issues, ",Social ,Garfi 2011,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+187,Public awareness and standard of living: Rate of increase in beneficiaries’ income in comparison with the minimum wage,Social ,Garfi 2011,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+188,"Cost: Low cost availability and access, ability to pay",Economic,Garfi 2011,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+189,Income and employment: Possibility of creating a difference in income that can produce social conflicts,Economic,Garfi 2011,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+190,Income and employment: Number of locals employed,Economic,Garfi 2011,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+191,"Impact: Greenhouses gases and other emissions (particulate matter, sulphur oxides)",Environmental,Garfi 2011,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+192,Impact: Quantity of contaminated water generated and related contamination (i.e. E. coli and total suspended solids),Environmental,Garfi 2011,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+193,Impact: Quantity of solid waste generated,Environmental,Garfi 2011,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+194,Impact: Average number of decibels generated,Environmental,Garfi 2011,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+195,Impact: Changes in landscape due to human exploitation,Environmental,Garfi 2011,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+196,Natural resources: Non-renewable energy consumption,Environmental,Garfi 2011,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,1,0,0,0,1,0,0,0,0
+197,Natural resources: Water consumption,Environmental,Garfi 2011,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,1,0,0,0,1,0,0,0,0
+198,Natural resources: Raw material consumption,Environmental,Garfi 2011,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,1,0,0,0,1,0,0,0,0
+199,Natural resources: Amount of land used (ha),Environmental,Garfi 2011,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,1,0,0,0,1,0,0,0,0
+200,"Technology: Percentage of local materials and resources used in water technology, Size of the project (i.e. land occupied, energy consumed)",Technical,Garfi 2011,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,1,1
+201,"Management: Local capacity for management, operation and maintenance",Technical,Garfi 2011,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+202,"Local participation and access: Percentage of local population involved, Percentage of potential beneficiaries",Social ,Garfi 2011,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1
+203,"Local culture: Respect for local culture, appropriateness of the project to the local cultural of men and woman",Social ,Garfi 2011,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1
+204,"Equality and migration: Possibility of avoiding conflict among different groups in the community (i.e. between men and woman), Percentage of people who can potentially migrate",Social ,Garfi 2011,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0
+205,Health: Reduction of children mortality due to diarrhoeal disease,Social ,Garfi 2011,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+206,"Public awareness and standard of living: Percentage of people trained in water, sanitation and hygiene issues, ",Social ,Garfi 2011,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+207,Public awareness and standard of living: Rate of increase in beneficiaries’ income in comparison with the minimum wage,Social ,Garfi 2011,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+208,"Cost: Low cost availability and access, ability to pay",Economic,Garfi 2011,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+209,Income and employment: Possibility of creating a difference in income that can produce social conflicts,Economic,Garfi 2011,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+210,Income and employment: Number of locals employed,Economic,Garfi 2011,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+211,"Impact: Greenhouses gases and other emissions (particulate matter, sulphur oxides)",Environmental,Garfi 2011,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+212,Impact: Quantity of contaminated water generated and related contamination (i.e. E. coli and total suspended solids),Environmental,Garfi 2011,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+213,Impact: Quantity of solid waste generated,Environmental,Garfi 2011,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+214,Impact: Average number of decibels generated,Environmental,Garfi 2011,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+215,Impact: Changes in landscape due to human exploitation,Environmental,Garfi 2011,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+216,Natural resources: Non-renewable energy consumption,Environmental,Garfi 2011,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,1,0,0,0,1,0,0,0,0
+217,Natural resources: Water consumption,Environmental,Garfi 2011,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,1,0,0,0,1,0,0,0,0
+218,Natural resources: Raw material consumption,Environmental,Garfi 2011,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,1,0,0,0,1,0,0,0,0
+219,Natural resources: Amount of land used (ha),Environmental,Garfi 2011,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,1,0,0,0,1,0,0,0,0
+220,Is the disease/condition severe?,Burden of disease,González-Lorenzo 2015,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+221,Is the disease/condition frequent?,Burden of disease,González-Lorenzo 2015,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+222,Is the vaccination a priority?,Burden of disease,González-Lorenzo 2015,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+223,Are the desirable anticipated effects large?,Vaccine characteristics and impact of immunisation programme,González-Lorenzo 2015,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+224,Are the undesirable anticipated effects small?,Vaccine characteristics and impact of immunisation programme,González-Lorenzo 2015,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+225,What is the net benefit of the vaccination?,Vaccine characteristics and impact of immunisation programme,González-Lorenzo 2015,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+226,"What is the overall certainty of this evidence (e.g., how confident we are about the net benefit of the vaccination)?",Vaccine characteristics and impact of immunisation programme,González-Lorenzo 2015,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+227,How certain is the relative importance of the desirable and undesirable outcomes?,Values and preferences,González-Lorenzo 2015,1,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0
+228,Would patients/caregivers feel that the benefits outweigh the harms and burden?,Values and preferences,González-Lorenzo 2015,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+229,What is the appreciation and value of the vaccination in the population?,Values and preferences,González-Lorenzo 2015,1,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+230,Is the incremental cost small relative to the net benefits?,Resource use,González-Lorenzo 2015,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+231,Is the total cost (impact on budget) small? / What are the costs of the vaccination and are they limited compared to the benefits?,Resource use,González-Lorenzo 2015,1,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0
+232,What would be the impact on health inequities?,Equity,González-Lorenzo 2015,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+233,Would some part of the population taking advantage from the vaccination compared to other groups?,Equity,González-Lorenzo 2015,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+234,Is the option feasible to adoption in the actual setting?,Feasibility,González-Lorenzo 2015,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+235,Which vaccination barriers or facilitators act at the system level?,Feasibility,González-Lorenzo 2015,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+236,"Investments in capital, resources and technology that are required to establish measures",Cost of implementation,He 2012,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0
+237,Level of attainment in emissions control after the execution of the measures,Effectiveness,He 2012,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+238,Time span for the alternative policies and measures to reach their full effectiveness,Effect time,He 2012,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0
+239,Willingness of the public and the government to accept the selected policies and measures,Political or public acceptability,He 2012,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+240,Ease of administering the change,Administer-ability,He 2012,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+241,Intensity of alterations to the community during the implementation of the measures,Degree of deviations from the existing system,He 2012,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+242,Achieve the goal and objective through providing the greatest good for the greatest number,Ethical considerations,Kayman 2016,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+243,Minimize harm to the general population,Ethical considerations,Kayman 2016,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+244,Minimize harm to the vulnerable population,Ethical considerations,Kayman 2016,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+245,Protect human rights and individual autonomy,Ethical considerations,Kayman 2016,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,1,0
+246,Come closest to ensuring a fair distribution of benefits and burdens,Ethical considerations,Kayman 2016,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0
+247,"Most proportional response, if compulsion or coercion is needed",Ethical considerations,Kayman 2016,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,1,1,0,0,1,0,0,0,1,0,0,0,1,0
+248,"Most justifiable to the various political officials you report to, in terms of their professed values and demands",Political considerations,Kayman 2016,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1
+249,"Most justifiable to the people in the affected community, in terms of their professed values and demands",Political considerations,Kayman 2016,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0
+250,"Cause least infringement on the community’s views on personal autonomy, basic human rights, and individual/community liberties",Political considerations,Kayman 2016,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1
+251,Least likely to exceed the personnel budget provided for this situation,Logistical considerations,Kayman 2016,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+252,Least likely to exceed the materials and supplies budget provided for this intervention,Logistical considerations,Kayman 2016,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+253,Most effective in solving the problem,Logistical considerations,Kayman 2016,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+254,Provide the best cost-effectiveness ratio,Logistical considerations,Kayman 2016,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+255,Can be done fastest without decreasing effectiveness,Logistical considerations,Kayman 2016,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1
+256,Do any of the proposed interventions feature courses of action that may be against the law?,Logistical considerations,Kayman 2016,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+257,Origin of/reason for request (Who requested the review? What was their rationale? What is their responsibility/mandate?),Contextual factors,Krahn 2018,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+258,Incidence/prevalence (What is the burden of disease?),Contextual factors,Krahn 2018,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+259,"Availability of comparable alternatives (List the available technologies (including drugs), devices, and interventions that are considered alternatives.)",Contextual factors,Krahn 2018,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,1,0,1,0,0,1,0,0,0,0,0,0,0
+260,"Decisions by other jurisdictions (What have other jurisdictions (provinces, countries) done with respect to the technology, device, or intervention being studied?)",Contextual factors,Krahn 2018,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,1,1
+261,"Stakeholders and potential conflicts of interest (Who are the key stakeholders, and what conflicts of interest might be at play with respect to the technology, device, or intervention being studied?)",Contextual factors,Krahn 2018,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+262,"Types of analyses conducted (Options: Evidence-Based Analysis, Rapid Review, Expert Consultation, other (please describe).)",Contextual factors,Krahn 2018,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+263,"Affiliation of author(s) (Examples: Health Quality Ontario, PATH Research Institute, THETA Collaborative)",Contextual factors,Krahn 2018,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+264,"Cost considerations (What are the relevant cost considerations associated with implementing this technology/intervention (e.g., budget impact)?)",Health system feasibility ,Krahn 2018,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+265,"Organizational implications (What are the relevant non-cost implications (e.g., logistical, human resources) associated with implementing this technology/intervention?)",Health system feasibility ,Krahn 2018,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,1
+266,"Benefit (magnitude, certainty)",Benefits and Harms,Krahn 2018,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+267,"Harm (magnitude, certainty)",Benefits and Harms,Krahn 2018,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+268,Patient perspective (Strongly for/against or not a determinant),Benefits and Harms,Krahn 2018,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0
+269,Value for money (cost-effectiveness),Economics ,Krahn 2018,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+270,"Adequacy (Appropriateness of cost and outcome measures, Comprehensiveness of cost and outcome valuation/aggregation)",Economics ,Krahn 2018,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0
+271,"Patients: values & preferences (Aligned with patient values & preferences, Consistent with commitments to autonomy, privacy, confidentiality)",Patient-Centered Care,Krahn 2018,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0
+272,"Populations: Equity & Coordinated Care (Enhances equity in access or outcomes, Coordinates care)",Patient-Centered Care,Krahn 2018,1,0,0,0,0,0,0,1,0,0,1,0,0,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+273,"Groundwater (or surface water) microbial pollution, e.g. of concern where the water supply is from a local well",Exposure to health hazards,Malekpour 2013,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+274,Exposure to fecal matter during use,Exposure to health hazards,Malekpour 2013,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+275,Exposure to fecal matter during waste collection,Exposure to health hazards,Malekpour 2013,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+276,Users’ accessibility (convenience),Accessibility,Malekpour 2013,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1
+277,"Reuse centers’ accessibility; applicable to the facilities with direct reuse of on-site toilet products, e.g. eco-san, bio-latrine",Accessibility,Malekpour 2013,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+278,Water supply reliability,Reliability,Malekpour 2013,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+279,Users’ operation reliability,Reliability,Malekpour 2013,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+280,System maintainability,Reliability,Malekpour 2013,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+281,Compatibility of the system with population growth and/or prospective water supply coverage,Resilience,Malekpour 2013,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+282,flammability,Physical chemical hazards,Malloy 2013,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+283,flashpoint,Physical chemical hazards,Malloy 2013,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+284,explosive limits,Physical chemical hazards,Malloy 2013,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+285,auto-ignitability temperature,Physical chemical hazards,Malloy 2013,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+286,oxidizing properties,Physical chemical hazards,Malloy 2013,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+287,Toxicity: acute toxicity,Human health impact,Malloy 2013,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,1,1,0,1,0,1,0,1,0,0,0,0,0,0
+288,Toxicity: carcinogenicity,Human health impact,Malloy 2013,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,1,1,0,1,0,1,0,1,0,0,0,0,0,0
+289,Toxicity: developmental toxicity,Human health impact,Malloy 2013,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,1,1,0,1,0,1,0,1,0,0,0,0,0,0
+290,Toxicity: reproductive toxicity,Human health impact,Malloy 2013,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,1,1,0,1,0,1,0,1,0,0,0,0,0,0
+291,Toxicity: endocrine disruption,Human health impact,Malloy 2013,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,1,1,0,1,0,1,0,1,0,0,0,0,0,0
+292,Toxicity: epigenetic disruption,Human health impact,Malloy 2013,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,1,1,0,1,0,1,0,1,0,0,0,0,0,0
+293,Toxicity: genotoxicity,Human health impact,Malloy 2013,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,1,1,0,1,0,1,0,1,0,0,0,0,0,0
+294,"Toxicity: organ, tissue, or cellular toxicity not otherwise declared",Human health impact,Malloy 2013,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,1,1,0,1,0,1,0,1,0,0,0,0,0,0
+295,Human exposure: volume in manufacturing,Human health impact,Malloy 2013,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,0,1,0,0,0,0,0,0,0,0
+296,Human exposure: volume in consumer use,Human health impact,Malloy 2013,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,0,1,0,0,0,0,0,0,0,0
+297,Human exposure: extent of dispersive use,Human health impact,Malloy 2013,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,0,1,0,0,0,0,0,0,0,0
+298,Human exposure: sensitive sub-population,Human health impact,Malloy 2013,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,0,1,0,0,0,0,0,0,0,0
+299,Human exposure: persistence,Human health impact,Malloy 2013,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,0,1,0,0,0,0,0,0,0,0
+300,Human exposure: bioaccumulation,Human health impact,Malloy 2013,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,0,1,0,0,0,0,0,0,0,0
+301,"Adverse impacts: aquatic, animal, or plant species",Ecological impacts,Malloy 2013,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+302,Adverse impacts: aquatic and terrestrial ecosystems,Ecological impacts,Malloy 2013,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+303,Adverse impacts: endangered or threatened species,Ecological impacts,Malloy 2013,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+304,Adverse impacts: environmentally sensitive habitats,Ecological impacts,Malloy 2013,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+305,Exposure: volume in manufacturing,Ecological impacts,Malloy 2013,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+306,Exposure: volume in consumer use,Ecological impacts,Malloy 2013,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+307,Exposure: extent of dispersive use,Ecological impacts,Malloy 2013,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+308,Exposure: persistence,Ecological impacts,Malloy 2013,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,0,1,0,0,0,0,0,0,0,0
+309,Exposure: bioaccumulation,Ecological impacts,Malloy 2013,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,0,1,0,0,0,0,0,0,0,0
+310,Media impacts: adverse air quality: nitrogen oxides,Environmental impacts,Malloy 2013,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+311,Media impacts: adverse air quality: sulfur oxides,Environmental impacts,Malloy 2013,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+312,Media impacts: adverse air quality: greenhouse gasses,Environmental impacts,Malloy 2013,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+313,Media impacts: adverse air quality: ozone depleting compounds,Environmental impacts,Malloy 2013,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+314,Media impacts: adverse air quality: photochemically reactive compounds,Environmental impacts,Malloy 2013,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+315,Media impacts: adverse air quality: particulate matter,Environmental impacts,Malloy 2013,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+316,Media impacts: adverse air quality: fine particulate matter,Environmental impacts,Malloy 2013,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+317,Media impacts: adverse water quality impacts: biological oxygen demand,Environmental impacts,Malloy 2013,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+318,Media impacts: adverse water quality impacts: total dissolved solids,Environmental impacts,Malloy 2013,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+319,Media impacts: adverse water quality impacts: thermal pollution,Environmental impacts,Malloy 2013,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+320,Media impacts: adverse soil quality impacts: chemical contamination,Environmental impacts,Malloy 2013,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+321,Media impacts: adverse soil quality impacts: biological contamination,Environmental impacts,Malloy 2013,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+322,Media impacts: adverse soil quality impacts: loss of organic matter,Environmental impacts,Malloy 2013,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+323,Media impacts: adverse soil quality impacts: erosion,Environmental impacts,Malloy 2013,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+324,Natural resource use: non-renewable material use,Environmental impacts,Malloy 2013,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0
+325,Natural resource use: renewable material use,Environmental impacts,Malloy 2013,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0
+326,Natural resource use: water use,Environmental impacts,Malloy 2013,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0
+327,Natural resource use: energy use,Environmental impacts,Malloy 2013,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0
+328,Natural resource use: waste generation and end-of-life disposal,Environmental impacts,Malloy 2013,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0
+329,Natural resource use: reusability and recyclability,Environmental impacts,Malloy 2013,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0
+330,Functionality,Technical feasibility,Malloy 2013,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+331,Reliability,Technical feasibility,Malloy 2013,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+332,Usability,Technical feasibility,Malloy 2013,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+333,Maintainability,Technical feasibility,Malloy 2013,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+334,Efficiency,Technical feasibility,Malloy 2013,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1
+335,Manufacturer impact,Economic feasibility,Malloy 2013,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,1,1
+336,Purchaser impact,Economic feasibility,Malloy 2013,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,1,1
+337,Likelihood of consumers performing the action (how difficult it is for the consumer to make this change in their day to day life),Feasibility ,Marazzi 2020,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+338,Immediacy of the action ,Feasibility ,Marazzi 2020,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+339,Financial impact on consumer,Economic impacts,Marazzi 2020,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,1,0,0,1,0
+340,Financial impact on infrastructure or business ,Economic impacts,Marazzi 2020,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,1,0,0,1,0
+341,Carbon impact for consumer,Environmental impact,Marazzi 2020,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+342,Carbon impact of production,Environmental impact,Marazzi 2020,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+343,Water consumption impact through product manufacturing and consumer use,Environmental impact,Marazzi 2020,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+344,Other impacts specific to the action that need to be factored in (e.g. ecological impact of harvesting an alternative material),Other environmental unintended consequences,Marazzi 2020,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+345,Reduction in the volume of plastic litter entering the environment ,Potential scale of change,Marazzi 2020,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+346,Examples showing potential effectiveness (e.g. pilot study/use in a particular country or region),Evidence of impact,Marazzi 2020,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+347,Physical hazard potential,Chemical properties,Mitchell 2013,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,1,0,1,0,0,0,0,0,0,0,0
+348,Persistence,Chemical properties,Mitchell 2013,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,1,0,1,0,0,0,0,0,0,0,0
+349,Bioaccumulations potential,Chemical properties,Mitchell 2013,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,1,0,1,0,0,0,0,0,0,0,0
+350,"ADME (Absorption, Distribution, Metabolism, and Elimination)",Chemical properties,Mitchell 2013,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,1,0,1,0,0,0,0,0,0,0,0
+351,Production,Life cycle properties,Mitchell 2013,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,1,0,1,0,0,0,0,0,0,0,0
+352,Consumer use,Life cycle properties,Mitchell 2013,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,1,0,1,0,0,0,0,0,0,0,0
+353,Disposal,Life cycle properties,Mitchell 2013,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,1,0,1,0,0,0,0,0,0,0,0
+354,The degradation half-life in marine water,Persistence,Moermond 2012,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+355,The degradation half-life in fresh or estuarine water,Persistence,Moermond 2012,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+356,The degradation half-life in marine sediment,Persistence,Moermond 2012,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+357,The degradation half-life in fresh or estuarine water sediment,Persistence,Moermond 2012,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+358,The degradation half-life in soil,Persistence,Moermond 2012,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+359,Bioconcentration factor in aquatic species,Bioaccumulation,Moermond 2012,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+360,The long-term no-observed effect concentration (NOEC) or ECx0 for marine or freshwater organisms,Toxicity,Moermond 2012,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+361,"The substance meets the criteria for classification as carcinogenic (category xA or xB), mutagenic (category xA or xB), or toxic for reproduction (category xA, xB, or 2) according to Regulation EC No x272/2008",Toxicity,Moermond 2012,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+362,"There is other evidence of chronic toxicity, as identified by the substance meeting the criteria for classification: specific target organ toxicity after repeated exposure (STOT RE cat x or 2) according to Regulation EC No x272/20x0",Toxicity,Moermond 2012,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+363,benefit or contribute to society (justification),,Morley 2017,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+364,use the least intrusive means necessary to accomplish the objectives (optimization),,Morley 2017,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+365,anticipate and avoid or minimize potential adverse consequences (minimization of harm),,Morley 2017,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+366,"Individual autonomy (informed consent - The monitoring program’s policy, procedures, and objectives are disclosed in clear and understandable terms, and the policy, procedures, and objectives are, in fact, understood by the employees)",ethical values,Morley 2017,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0
+367,Cultural sensitivity (Engage a variety of stakeholders from varying cultural perspectives to develop culturally sensitive monitoring programs),ethical values,Morley 2017,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+368,Individual control (Promote the individual’s control over his/her own information by protecting against intrusions into informational privacy),ethical values,Morley 2017,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+369,"Employer interests (Promote the employer’s legitimate interest in organizational security, productivity and favorable reputation)",ethical values,Morley 2017,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+370,Fairness (Clarify ownership of and accountability for information collected),ethical values,Morley 2017,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+371,Constitutes an extraordinary event,,Mullen 2020,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+372,Public health risk to other states via international spread,,Mullen 2020,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+373,Requires a coordinated international response,,Mullen 2020,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+374,Sustained community transmission,,Mullen 2020,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+375,Gaps in knowledge due to novel agent or limited response experience,,Mullen 2020,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+376,Impending mass gathering,,Mullen 2020,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+377,Threat to eradication,,Mullen 2020,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+378,Complex response settings,,Mullen 2020,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+379,Local priorities: Extent to which funding for water and sewer service is a city or county priority compared with other rivaling priorities,Financing,Naman 2015,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,1,0,0,0,1,0,0,0,0,1,0
+380,"Perceived economic development benefits of extensions: Extent to which water and sewer extensions are seen as benefiting the city or county economy indirectly (e.g., the extension encourages new businesses to settle)",Financing,Naman 2015,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0
+381,Availability of outside funding: Availability of grants and loans to fund water and sewer extensions,Financing,Naman 2015,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+382,"Costs and benefits of extensions: Direct monetary costs and benefits of water and sewer extension (e.g., revenue from new customers)",Financing,Naman 2015,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+383,Annexation for service extension: How annexation into the city plays a role in the extension of water and sewer,Government support,Naman 2015,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+384,Decision-makers: The governmental and nongovernmental actors that must be involved to extend services and their roles,Government support,Naman 2015,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1
+385,Government involvement in unincorporated communities: Extent to which government officials are involved in addressing the unincorporated community’s needs,Government support,Naman 2015,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+386,"Planning and zoning laws: Planning and zoning laws and considerations that influence water and sewer extension (e.g., long-range planning for economic growth that calls for service extension)",Government support,Naman 2015,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+387,"Relationships among government departments: How the interactions between various government actors affect the decision-making process (e.g., a strained relationship between county and city officials can affect the shared decision to extend city services beyond city limits)",Government support,Naman 2015,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+388,Well and septic tank permitting rules: Extent to which the rules governing well and septic tank permitting affect their repairs and replacements,Existing infrastructure,Naman 2015,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+389,"Environmental factors affecting pipe network construction: Impact of environmental factors (e.g., topography, rainfall) on the costs of extending water and sewer infrastructure",Existing infrastructure,Naman 2015,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+390,"Piped water and sewer infrastructure location and capacity: Capacity, location, and ownership of existing piped water and sewer infrastructure",Existing infrastructure,Naman 2015,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+391,Problems associated with septic tank use: Financial and societal challenges for the homeowner owing to septic tank use,Existing infrastructure,Naman 2015,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,1,1,1,0,0,0,0
+392,Community involvement: Extent to which the unserved community has organized and advocated for service extensions,Community engagement,Naman 2015,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,1,0,1,0,0,0,1,0,0,0,0,0,1
+393,Presence of renters in unincorporated areas: How the presence of renters in unincorporated communities affects extension,Community engagement,Naman 2015,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,1
+394,Availability of data on septic tank failure rates: Extent to which failure rates of septic systems and other potential health risk factors are monitored,Public health,Naman 2015,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,1,1,1,1,0,0,0,0,0,0,0
+395,Awareness of health risks: Extent to which decision-makers are aware of health risks associated with domestic water and sewer systems,Public health,Naman 2015,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,1,1
+396,Availability of data on water contamination from septic tanks: Whether contamination of water and soil owing to failed septic tanks is known to be present in the community,Public health,Naman 2015,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,1,0,0,1,0,0,0,0,0,0,0
+397,Local priorities: Extent to which funding for water and sewer service is a city or county priority compared with other rivaling priorities,Financing,Naman 2015,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,1,0,0,0,1,0,0,0,0,1,0
+398,"Perceived economic development benefits of extensions: Extent to which water and sewer extensions are seen as benefiting the city or county economy indirectly (e.g., the extension encourages new businesses to settle)",Financing,Naman 2015,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0
+399,Availability of outside funding: Availability of grants and loans to fund water and sewer extensions,Financing,Naman 2015,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+400,"Costs and benefits of extensions: Direct monetary costs and benefits of water and sewer extension (e.g., revenue from new customers)",Financing,Naman 2015,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+401,Annexation for service extension: How annexation into the city plays a role in the extension of water and sewer,Government support,Naman 2015,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+402,Decision-makers: The governmental and nongovernmental actors that must be involved to extend services and their roles,Government support,Naman 2015,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1
+403,Government involvement in unincorporated communities: Extent to which government officials are involved in addressing the unincorporated community’s needs,Government support,Naman 2015,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+404,"Planning and zoning laws: Planning and zoning laws and considerations that influence water and sewer extension (e.g., long-range planning for economic growth that calls for service extension)",Government support,Naman 2015,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+405,"Relationships among government departments: How the interactions between various government actors affect the decision-making process (e.g., a strained relationship between county and city officials can affect the shared decision to extend city services beyond city limits)",Government support,Naman 2015,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+406,Well and septic tank permitting rules: Extent to which the rules governing well and septic tank permitting affect their repairs and replacements,Existing infrastructure,Naman 2015,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+407,"Environmental factors affecting pipe network construction: Impact of environmental factors (e.g., topography, rainfall) on the costs of extending water and sewer infrastructure",Existing infrastructure,Naman 2015,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+408,"Piped water and sewer infrastructure location and capacity: Capacity, location, and ownership of existing piped water and sewer infrastructure",Existing infrastructure,Naman 2015,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+409,Problems associated with septic tank use: Financial and societal challenges for the homeowner owing to septic tank use,Existing infrastructure,Naman 2015,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,1,1,1,0,0,0,0
+410,Community involvement: Extent to which the unserved community has organized and advocated for service extensions,Community engagement,Naman 2015,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,1,0,1,0,0,0,1,0,0,0,0,0,1
+411,Presence of renters in unincorporated areas: How the presence of renters in unincorporated communities affects extension,Community engagement,Naman 2015,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,1
+412,Availability of data on septic tank failure rates: Extent to which failure rates of septic systems and other potential health risk factors are monitored,Public health,Naman 2015,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,1,1,1,1,0,0,0,0,0,0,0
+413,Awareness of health risks: Extent to which decision-makers are aware of health risks associated with domestic water and sewer systems,Public health,Naman 2015,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,1
+414,Availability of data on water contamination from septic tanks: Whether contamination of water and soil owing to failed septic tanks is known to be present in the community,Public health,Naman 2015,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,1,0,0,1,0,0,0,0,0,0,0
+415,Toxicity,Human health,Pang 2017,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+416,Exposure,Human health,Pang 2017,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+417,Air quality,Environmental impact,Pang 2017,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+418,Water,Environmental impact,Pang 2017,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+419,Sediment,Environmental impact,Pang 2017,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+420,Biota,Environmental impact,Pang 2017,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+421,Cost,Social impact,Pang 2017,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+422,Recreation,Social impact,Pang 2017,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+423,Technology maturity,Technical feasibility,Pang 2017,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+424,Useability,Technical feasibility,Pang 2017,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+425,Feasibility,Technical feasibility,Pang 2017,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+426,Water: persistence,Ecological,Perez 2017,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,1,0,1,0,0,0,0,0,0,0,0
+427,Water: exposure,Ecological,Perez 2017,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+428,Water: toxicity,Ecological,Perez 2017,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+429,Water: long-term effects,Ecological,Perez 2017,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+430,Air: persistence,Ecological,Perez 2017,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+431,Air: exposure,Ecological,Perez 2017,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+432,Air: toxicity,Ecological,Perez 2017,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+433,Air: long-term effects,Ecological,Perez 2017,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+434,Soil: persistence,Ecological,Perez 2017,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+435,Soil: exposure,Ecological,Perez 2017,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+436,Soil: toxicity,Ecological,Perez 2017,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+437,Soil: long-term effects,Ecological,Perez 2017,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+438,Acute health score: oral,Health,Perez 2017,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+439,Acute health score: dermal,Health,Perez 2017,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+440,Acute health score: IDLH (immediately dangerous to life or health),Health,Perez 2017,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+441,Acute health score: STEL (short-term exposure limit)/ceiling,Health,Perez 2017,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+442,Acute health score: inhalation,Health,Perez 2017,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+443,Acute health score: skin irritation,Health,Perez 2017,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+444,Acute health score: eye irritation,Health,Perez 2017,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+445,Acute health score: odor threshold value,Health,Perez 2017,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+446,Chronic health effects: reproductive effects,Health,Perez 2017,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+447,Chronic health effects: carcinogenicity,Health,Perez 2017,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+448,Chronic health effects: RfC (oral reference dose),Health,Perez 2017,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+449,Chronic health effects: RfD (inhalation reference concentration),Health,Perez 2017,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+450,Chronic health effects: sensitizer,Health,Perez 2017,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+451,Chronic health effects: neurotixicity,Health,Perez 2017,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+452,Chronic health effects: TLV (threshold limit value),Health,Perez 2017,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+453,Chronic health effects: subchronic toxicity,Health,Perez 2017,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+454,Chronic health effects: genotoxocity,Health,Perez 2017,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+455,Fire: flammability,Safety,Perez 2017,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+456,Special score: radioactivity,Safety,Perez 2017,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+457,Special score: oxidizer,Safety,Perez 2017,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+458,Special score: water-reactive,Safety,Perez 2017,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+459,Special score: corrosive,Safety,Perez 2017,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+460,Reactivity: explosivity,Safety,Perez 2017,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+461,Values that tend to be systematically downplayed by traditional decision methods,The value of human health and the environment,Persson 2016,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,1,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+462,The decision might lead to irreversible and severe consequences and the values at stake are also irreplaceable,Irreversibility,Persson 2016,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,1,1,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0
+463,Timing is at least as important as being right,The cost of being late,Persson 2016,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,1,0,0,1,1,0,0,1,1,0,0,1,0,0,0,0,0
+464,it is more important to avoid false negatives than false positives,False positives versus false negatives,Persson 2016,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,1,0,0,1,1,0,0,1,1,0,0,1,0,0,0,0,0
+465,Are healthcare services sufficiently available?,Availability,Ramos 2018,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+466,Physical accessibility: Are facilities and services physically accessible?,Accessibility,Ramos 2018,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+467,Physical accessibility: How long does it take to get to services?,Accessibility,Ramos 2018,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+468,Physical accessibility: Are hours of service convenient for farmworkers?,Accessibility,Ramos 2018,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+469,Physical accessibility: Is transportation assistance available?,Accessibility,Ramos 2018,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+470,Economic accessibility: Are services affordable?,Accessibility,Ramos 2018,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+471,Economic accessibility: Are fees assessed on sliding scale?,Accessibility,Ramos 2018,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+472,Economic accessibility: Are free services or waivers available for farmworkers who cannot pay?,Accessibility,Ramos 2018,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+473,Information accessibility: Is appropriate health information available to farmworkers?,Accessibility,Ramos 2018,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+474,Information accessibility: Is the information in a format that is understandable?,Accessibility,Ramos 2018,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+475,Information accessibility: Are language access services available?,Accessibility,Ramos 2018,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+476,"Non-discrimination: Are services provided free from discrimination, both in policy and in practice?",Accessibility,Ramos 2018,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+477,Non-discrimination: Are services available to all including undocumented farmworkers?,Accessibility,Ramos 2018,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+478,Are services provided in a respectful manner?,Acceptability,Ramos 2018,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+479,Do services adhere to medical ethics?,Acceptability,Ramos 2018,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+480,Are services culturally and linguistically appropriate?,Acceptability,Ramos 2018,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+481,Are good quality services provided?,Quality,Ramos 2018,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+482,Do providers have the appropriate skills to work with farmworkers?,Quality,Ramos 2018,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+483,Are appropriate health monitoring and evaluation strategies in place?,Quality,Ramos 2018,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+484,Efficacy or effectiveness on health of individuals.,Balance of health benefits and harms,Rehfuess 2019,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+485,Effectiveness or impact on health of population.,Balance of health benefits and harms,Rehfuess 2019,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+486,Patients'/beneficiaries' values in relation to health outcomes,Balance of health benefits and harms,Rehfuess 2019,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+487,Safety risk profile of intervention.,Balance of health benefits and harms,Rehfuess 2019,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+488,Broader positive or negative health-related impacts.,Balance of health benefits and harms,Rehfuess 2019,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+489,Accordance with universal human rights standards.,Human rights and sociocultural acceptability,Rehfuess 2019,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,1,1
+490,Sociocultural acceptability of intervention to patients/beneficiaries and those implementing the intervention.,Human rights and sociocultural acceptability,Rehfuess 2019,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+491,Sociocultural acceptability of intervention to the public and other relevant stakeholder groups.,Human rights and sociocultural acceptability,Rehfuess 2019,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+492,Impact on autonomy of concerned stakeholders. / Intrusiveness of intervention.,Human rights and sociocultural acceptability,Rehfuess 2019,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+493,Impact on health equality and/or health equity.,"Health equity, equality and non-discrimination",Rehfuess 2019,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+494,Distribution of benefits and harms of intervention.,"Health equity, equality and non-discrimination",Rehfuess 2019,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+495,Affordability of intervention.,"Health equity, equality and non-discrimination",Rehfuess 2019,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+496,Accessibility of intervention.,"Health equity, equality and non-discrimination",Rehfuess 2019,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+497,Severity and/or rarity of the condition.,"Health equity, equality and non-discrimination",Rehfuess 2019,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+498,Lack of a suitable alternative.,"Health equity, equality and non-discrimination",Rehfuess 2019,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+499,Social impact.,Societal implications,Rehfuess 2019,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+500,Environmental impact.,Societal implications,Rehfuess 2019,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+501,Financial impact.,Financial and economic considerations,Rehfuess 2019,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0
+502,Impact on economy.,Financial and economic considerations,Rehfuess 2019,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0
+503,Ratio of costs and benefits.,Financial and economic considerations,Rehfuess 2019,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+504,Legislation.,Feasibility and health system considerations,Rehfuess 2019,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+505,Leadership and governance.,Feasibility and health system considerations,Rehfuess 2019,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+506,Interaction with and impact on health system.,Feasibility and health system considerations,Rehfuess 2019,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+507,"Need for, usage of and impact on health workforce and human resources.",Feasibility and health system considerations,Rehfuess 2019,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,1
+508,"Need for, usage of and impact on infrastructure.",Feasibility and health system considerations,Rehfuess 2019,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,1
+509,-,Quality of evidence,Rehfuess 2019,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+510,Decisions are made in forums open to the public by means of publicly available arguments and evidence,Publicity,Resnik 2018,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+511,"Decisions should be justified by reasons that fair-minded people consider to be relevant, e.g., scientific data, expert opinion, moral argument",Relevancy,Resnik 2018,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+512,Decisions can be appealed or revised based on new evidence or argument,Revisability,Resnik 2018,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+513,Decisions can be enforced by means of laws or regulations,Enforceability,Resnik 2018,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,1,1
+514,Description of the health technology and technical characteristics,,Sampietro-Colom 2015,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0
+515,Health problem and current use of the technology,,Sampietro-Colom 2015,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+516,Clinical effectiveness,,Sampietro-Colom 2015,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+517,Safety aspects,,Sampietro-Colom 2015,1,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+518,"Ethical, organisational, social and legal aspects",,Sampietro-Colom 2015,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1
+519,Cost-effectiveness with a societal or healthcare payer perspective and using average costs,Cost and economic evaluation,Sampietro-Colom 2015,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+520,"Differential cost analysis process, budget impact analysis, cost- effectiveness using hospital perspective (i.e. actual costs for hospital)",Cost and economic evaluation,Sampietro-Colom 2015,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+521,What is the test performance of screening instruments to detect this disorder in community-dwelling primary care patients?,Detection,Siu 2021,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+522,Does screening for this disorder in adults in primary care relevant settings improve outcomes compared to later diagnosis?,Benefits – Evidence,Siu 2021,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+523,Does early treatment of this screen- detected disorder improve outcomes compared to later treatment?,Benefits – Evidence,Siu 2021,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0
+524,-,Benefits – Linkage Coherence,Siu 2021,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+525,-,Benefits – Magnitude,Siu 2021,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+526,What are the harms of screening for this disorder?,Harms – Evidence,Siu 2021,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+527,What are the harms of early treatment for this disorder?,Harms – Evidence,Siu 2021,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+528,-,Harms – Linkage Coherence,Siu 2021,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+529,-,Harms – Magnitude,Siu 2021,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+530,-,Overall Certainty,Siu 2021,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+531,-,Magnitude of Net Benefit,Siu 2021,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+532,Interventions should protect public health effectively.,Effectiveness,Song 2021,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+533,The probable public health benefits should outweigh the infringed moral considerations.,Proportionality,Song 2021,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,1,0
+534,The minimal infringement of moral considerations should have priority among other effective policies.,Necessity/least infringement,Song 2021,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,1,0,0,0,0,0,1,0,0,0,1,1,0
+535,The infringement should be explained and justified to the relevant parties.,Public justification,Song 2021,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+536,Rivers and streams habitat quantity gain/loss,Biophysical Environment,Williams 2020,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0
+537,Lakes and ponds habitat quantity gain/loss,Biophysical Environment,Williams 2020,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0
+538,Near coastal marine/estuarine habitat quantity gain/loss,Biophysical Environment,Williams 2020,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0
+539,Open water habitat quantity gain/loss,Biophysical Environment,Williams 2020,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0
+540,Wetlands habitat quantity gain/loss,Biophysical Environment,Williams 2020,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0
+541,Urban/Suburban habitat quantity gain/loss,Biophysical Environment,Williams 2020,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0
+542,Barren/rock and sand habitat quantity gain/loss,Biophysical Environment,Williams 2020,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0
+543,Rivers and streams habitat quality improved/diminished ,Biophysical Environment,Williams 2020,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0
+544,Lakes and ponds quality improved/diminished,Biophysical Environment,Williams 2020,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0
+545,Near coastal marine/estuarine quality improved/diminished,Biophysical Environment,Williams 2020,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0
+546,Open water quality improved/diminished,Biophysical Environment,Williams 2020,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0
+547,Wetlands quality improved/diminished,Biophysical Environment,Williams 2020,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0
+548,Urban/Suburban quality improved/diminished,Biophysical Environment,Williams 2020,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0
+549,Barren/rock and sand quality improved/diminished,Biophysical Environment,Williams 2020,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0
+550,Impact on priority habitat,Biophysical Environment,Williams 2020,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0
+551,Benefit to species of management concern,Biophysical Environment,Williams 2020,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+552,Restoration of native vegetation,Biophysical Environment,Williams 2020,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+553,Reduction of invasive species,Biophysical Environment,Williams 2020,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+554,Increase stormwater control/protection,Biophysical Environment,Williams 2020,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+555,Influence biophysical environment by reducing contamination,Biophysical Environment,Williams 2020,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+556,Funding pathway identified,Economy,Williams 2020,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+557,Funding application prepared,Economy,Williams 2020,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+558,Partnerships established,Economy,Williams 2020,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+559,Potential partnerships identified,Economy,Williams 2020,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+560,Feasible transportation of dredged materials to the use site,Economy,Williams 2020,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+561,Accept materials (5 years),Economy,Williams 2020,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+562,Accept materials long-term (20 years),Economy,Williams 2020,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+563,Lead to creation/growth of viable business,Economy,Williams 2020,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+564,Secondary benefits created,Economy,Williams 2020,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+565,Long-term maintenance required,Economy,Williams 2020,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+566,Improve access to parks or natural spaces ,Social,Williams 2020,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+567,Potential for indirect job creation,Social,Williams 2020,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+568,Improve aesthetics,Social,Williams 2020,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+569,Community engagement,Social,Williams 2020,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,1,0,0,0,0,1,0
+570,Reduced human exposure to contaminants,Social,Williams 2020,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+571,Improved access to ecosystem services,Social,Williams 2020,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+572,Improved infrastructure condition,Social,Williams 2020,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+573,New/improved infrastructure services for community,Social,Williams 2020,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0
+574,Maintain navigation channels,Governance,Williams 2020,1,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+575,Enrollment in voluntary program ,Governance,Williams 2020,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+576,Able to complete within Environmental Windows,Governance,Williams 2020,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+577,Included in existing guidance documents,Governance,Williams 2020,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+578,Permitting timeline conducive with project timeline,Governance,Williams 2020,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+579,Meets zoning requirements,Governance,Williams 2020,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+580,Flexible timeframe,Governance,Williams 2020,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+581,Replicable,Governance,Williams 2020,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+582,Site ownership,Governance,Williams 2020,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+583,Reduce contamination,Built Environment,Williams 2020,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+584,Diversion to construction,Built Environment,Williams 2020,1,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1
+585,Cap or fill for development site,Built Environment,Williams 2020,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+586,Cap or fill for construction,Built Environment,Williams 2020,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+587,Cap or fill for roads,Built Environment,Williams 2020,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+588,Cap or fill for park or greenspace,Built Environment,Williams 2020,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+589,Mortality based on mortality models of relative risk from a change in exposure to the hazard following intervention,Mortality,Woods 2016,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+590,Morbidity based on hospital admission models of relative risk from a change in exposure to the hazard following intervention.,Morbidity,Woods 2016,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+591,"Is there robust evidence for the risk: What is the level of evidence on the risk, i.e. it is robust, plentiful, consistent, accepted by the scientific community",Robust Evidence,Woods 2016,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+592,"Impact on wellbeing: With the intervention in place, what impact does this have on wellbeing and happiness in particular",Wellbeing,Woods 2016,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+593,"Is the intervention sustainable: Is the intervention sustainable in terms of economic, social, and environmental impacts?",Sustainability of intervention,Woods 2016,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1
+594,Is the intervention sustainable: Does it require a lot of resources to keep in place and maintain?,Sustainability of intervention,Woods 2016,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+595,Is the intervention sustainable: Are there social and environmental costs for its implementation and running?,Sustainability of intervention,Woods 2016,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1
+596,How regulated is the intervention: Is the intervention subject to regulation?,Level of regulation,Woods 2016,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,1
+597,How regulated is the intervention: Is it enforceable in law?,Level of regulation,Woods 2016,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+598,How regulated is the intervention: Are there penalties for failure? E.g. emissions tests,Level of regulation,Woods 2016,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,1
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

@@ -1,7 +1,7 @@
 #**READ IN THE DATASET**
   #598 obs of 37 variables
 library(readxl)
-EOH_EtD <- read_excel("~/Documents/GWU/Culminating Experience/Methods & Analysis/R Analysis/EOH EtD Items for R.xlsx")
+EOH_EtD <- read_excel("file pathway")
 View(EOH_EtD)
 
 #**LOAD ALL PACKAGES**
